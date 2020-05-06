@@ -16,12 +16,12 @@
     "Week.css": "https://artifacts.taqwa.zuhd.org/static/css/Week.9994d638.chunk.css",
     "Week.js": "https://artifacts.taqwa.zuhd.org/static/js/Week.e9628333.chunk.js",
     "main.css": "https://artifacts.taqwa.zuhd.org/static/css/main.c6af9c9a.chunk.css",
-    "main.js": "https://artifacts.taqwa.zuhd.org/static/js/main.e5195368.chunk.js",
+    "main.js": "https://artifacts.taqwa.zuhd.org/static/js/main.01340206.chunk.js",
     "runtime-main.js": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.7873df9c.js",
     "static/js/10.632b2e80.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/10.632b2e80.chunk.js",
     "static/js/11.d90a64d4.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/11.d90a64d4.chunk.js",
     "index.html": "https://artifacts.taqwa.zuhd.org/index.html",
-    "precache-manifest.f5f004e1c884b0afc7886f484dd581f3.js": "https://artifacts.taqwa.zuhd.org/precache-manifest.f5f004e1c884b0afc7886f484dd581f3.js",
+    "precache-manifest.f9a864a664c2f7c00d32d949251e2546.js": "https://artifacts.taqwa.zuhd.org/precache-manifest.f9a864a664c2f7c00d32d949251e2546.js",
     "service-worker.js": "https://artifacts.taqwa.zuhd.org/service-worker.js",
     "static/js/10.632b2e80.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/10.632b2e80.chunk.js.LICENSE.txt",
     "static/js/11.d90a64d4.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/11.d90a64d4.chunk.js.LICENSE.txt"
@@ -30,6 +30,6 @@
     "static/js/runtime-main.7873df9c.js",
     "static/js/10.632b2e80.chunk.js",
     "static/css/main.c6af9c9a.chunk.css",
-    "static/js/main.e5195368.chunk.js"
+    "static/js/main.01340206.chunk.js"
   ]
 }
