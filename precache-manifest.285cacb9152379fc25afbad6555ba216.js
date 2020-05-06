@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97d7234a39ffef7b3b4c918a6e9a2868",
+    "revision": "ed7bdbcca812b54ce8e1043233f1c690",
     "url": "https://artifacts.taqwa.zuhd.org/index.html"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/css/NotFound.0e433876.chunk.css"
   },
   {
-    "revision": "39981028f940528e7dca",
+    "revision": "87e2f115829c5e494da5",
     "url": "https://artifacts.taqwa.zuhd.org/static/css/Slider.7d04b043.chunk.css"
   },
   {
-    "revision": "2f4427f123ea5940ef6d",
+    "revision": "4932c814ecb46119ca0c",
     "url": "https://artifacts.taqwa.zuhd.org/static/css/Today.af75c735.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/css/Week.9994d638.chunk.css"
   },
   {
-    "revision": "3dbb9fc1aeb07d7ae229",
+    "revision": "6f167972bbaef2bad069",
     "url": "https://artifacts.taqwa.zuhd.org/static/css/main.c6af9c9a.chunk.css"
   },
   {
@@ -72,23 +72,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/js/NotFound.b1fa034b.chunk.js"
   },
   {
-    "revision": "39981028f940528e7dca",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/Slider.c99bc7c6.chunk.js"
+    "revision": "87e2f115829c5e494da5",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/Slider.754258f0.chunk.js"
   },
   {
-    "revision": "2f4427f123ea5940ef6d",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/Today.b48448b0.chunk.js"
+    "revision": "4932c814ecb46119ca0c",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/Today.7bb16b79.chunk.js"
   },
   {
     "revision": "719836f28d7316f8e834",
     "url": "https://artifacts.taqwa.zuhd.org/static/js/Week.e9628333.chunk.js"
   },
   {
-    "revision": "3dbb9fc1aeb07d7ae229",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/main.01340206.chunk.js"
+    "revision": "6f167972bbaef2bad069",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/main.7f17b0c4.chunk.js"
   },
   {
-    "revision": "5924dd043a0d7b47d4a3",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.7873df9c.js"
+    "revision": "36d50903d5364b55531a",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.4da95d3b.js"
   }
 ]);
