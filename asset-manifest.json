@@ -1,35 +1,35 @@
 {
   "files": {
-    "static/js/0.e880ce1e.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/0.e880ce1e.chunk.js",
+    "static/js/0.a6f0192a.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/0.a6f0192a.chunk.js",
     "Edit.css": "https://artifacts.taqwa.zuhd.org/static/css/Edit.b58c27a6.chunk.css",
-    "Edit.js": "https://artifacts.taqwa.zuhd.org/static/js/Edit.5e0164c4.chunk.js",
+    "Edit.js": "https://artifacts.taqwa.zuhd.org/static/js/Edit.64780222.chunk.js",
     "Embedded.css": "https://artifacts.taqwa.zuhd.org/static/css/Embedded.a2dad532.chunk.css",
-    "Embedded.js": "https://artifacts.taqwa.zuhd.org/static/js/Embedded.771a9456.chunk.js",
+    "Embedded.js": "https://artifacts.taqwa.zuhd.org/static/js/Embedded.dc56f82b.chunk.js",
     "Next.css": "https://artifacts.taqwa.zuhd.org/static/css/Next.ff17ba5f.chunk.css",
-    "Next.js": "https://artifacts.taqwa.zuhd.org/static/js/Next.883d4b9b.chunk.js",
+    "Next.js": "https://artifacts.taqwa.zuhd.org/static/js/Next.c375eabf.chunk.js",
     "NotFound.css": "https://artifacts.taqwa.zuhd.org/static/css/NotFound.0e433876.chunk.css",
     "NotFound.js": "https://artifacts.taqwa.zuhd.org/static/js/NotFound.64cd6245.chunk.js",
     "Slider.css": "https://artifacts.taqwa.zuhd.org/static/css/Slider.7d04b043.chunk.css",
-    "Slider.js": "https://artifacts.taqwa.zuhd.org/static/js/Slider.48c6d555.chunk.js",
+    "Slider.js": "https://artifacts.taqwa.zuhd.org/static/js/Slider.e94bfdc7.chunk.js",
     "Today.css": "https://artifacts.taqwa.zuhd.org/static/css/Today.af75c735.chunk.css",
-    "Today.js": "https://artifacts.taqwa.zuhd.org/static/js/Today.b97cb805.chunk.js",
+    "Today.js": "https://artifacts.taqwa.zuhd.org/static/js/Today.29e2a793.chunk.js",
     "Week.css": "https://artifacts.taqwa.zuhd.org/static/css/Week.9994d638.chunk.css",
-    "Week.js": "https://artifacts.taqwa.zuhd.org/static/js/Week.d41bb76d.chunk.js",
+    "Week.js": "https://artifacts.taqwa.zuhd.org/static/js/Week.7db2143c.chunk.js",
     "main.css": "https://artifacts.taqwa.zuhd.org/static/css/main.bf594009.chunk.css",
-    "main.js": "https://artifacts.taqwa.zuhd.org/static/js/main.5c5ce277.chunk.js",
-    "runtime-main.js": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.f1b1d2b6.js",
-    "static/js/10.daa250e1.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/10.daa250e1.chunk.js",
-    "static/js/11.076b354a.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/11.076b354a.chunk.js",
+    "main.js": "https://artifacts.taqwa.zuhd.org/static/js/main.8bf65931.chunk.js",
+    "runtime-main.js": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.1bfa0edd.js",
+    "static/js/10.3aff9d4c.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/10.3aff9d4c.chunk.js",
+    "static/js/11.7230b413.chunk.js": "https://artifacts.taqwa.zuhd.org/static/js/11.7230b413.chunk.js",
     "index.html": "https://artifacts.taqwa.zuhd.org/index.html",
-    "precache-manifest.e1a4dc82e227a32f4c6ab9be80d1bb1d.js": "https://artifacts.taqwa.zuhd.org/precache-manifest.e1a4dc82e227a32f4c6ab9be80d1bb1d.js",
+    "precache-manifest.591f9623994ac7a93ca2ba3af4ae15c3.js": "https://artifacts.taqwa.zuhd.org/precache-manifest.591f9623994ac7a93ca2ba3af4ae15c3.js",
     "service-worker.js": "https://artifacts.taqwa.zuhd.org/service-worker.js",
-    "static/js/10.daa250e1.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/10.daa250e1.chunk.js.LICENSE.txt",
-    "static/js/11.076b354a.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/11.076b354a.chunk.js.LICENSE.txt"
+    "static/js/10.3aff9d4c.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/10.3aff9d4c.chunk.js.LICENSE.txt",
+    "static/js/11.7230b413.chunk.js.LICENSE.txt": "https://artifacts.taqwa.zuhd.org/static/js/11.7230b413.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1b1d2b6.js",
-    "static/js/10.daa250e1.chunk.js",
+    "static/js/runtime-main.1bfa0edd.js",
+    "static/js/10.3aff9d4c.chunk.js",
     "static/css/main.bf594009.chunk.css",
-    "static/js/main.5c5ce277.chunk.js"
+    "static/js/main.8bf65931.chunk.js"
   ]
 }
