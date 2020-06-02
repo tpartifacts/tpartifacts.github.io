@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab0aa75928ab61d46da2cd9af4528a09",
+    "revision": "9303ef6cd4deb28a11f4982f2af9c58e",
     "url": "https://artifacts.taqwa.zuhd.org/index.html"
   },
   {
-    "revision": "2d68acac57104d68e024",
+    "revision": "7badc6789fd501c11fcf",
     "url": "https://artifacts.taqwa.zuhd.org/static/css/Edit.b58c27a6.chunk.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/css/Week.9994d638.chunk.css"
   },
   {
-    "revision": "56bf8bba6fab8490f3fe",
+    "revision": "414cc3a45ff182ed15f7",
     "url": "https://artifacts.taqwa.zuhd.org/static/css/main.bf594009.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/js/11.7230b413.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d68acac57104d68e024",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/Edit.9b1b135f.chunk.js"
+    "revision": "7badc6789fd501c11fcf",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/Edit.1a569195.chunk.js"
   },
   {
     "revision": "3fa5f58d603f5df160a6",
@@ -84,11 +84,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://artifacts.taqwa.zuhd.org/static/js/Week.7db2143c.chunk.js"
   },
   {
-    "revision": "56bf8bba6fab8490f3fe",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/main.9eace19d.chunk.js"
+    "revision": "414cc3a45ff182ed15f7",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/main.eee7bf17.chunk.js"
   },
   {
-    "revision": "840faafad3ab7ce42198",
-    "url": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.664da5f1.js"
+    "revision": "ff6f94076143f886c0c4",
+    "url": "https://artifacts.taqwa.zuhd.org/static/js/runtime-main.8382aefb.js"
   }
 ]);

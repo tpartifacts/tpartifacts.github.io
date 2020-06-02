@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://artifacts.taqwa.zuhd.org/precache-manifest.2bfa315cd76f6ec4617e93ed2c44a38a.js"
+  "https://artifacts.taqwa.zuhd.org/precache-manifest.af1655b0ea5e8fdeeb9fc119e08976b1.js"
 );
 
 self.addEventListener('message', (event) => {
