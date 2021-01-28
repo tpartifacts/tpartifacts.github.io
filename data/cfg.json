@@ -1,0 +1,20 @@
+{
+  "maghrib_offset": 4,
+  "shurooq_offset": 15,
+  "hijri_adjust": 0,
+  "jumuah_idle": 30,
+  "other_idle": 10,
+  "jumuah_close": 30,
+  "other_close": 15,
+  "info_page": {
+    "bg": ""
+  },
+  "meta": {
+    "name": "Masjid at-Taqwa",
+    "full_name": "Masjid at-Taqwa, Spence",
+    "embed_name": "Masjid at-Taqwa, Spence",
+    "logo": "https://taqwa.zuhd.org/isb.png?",
+    "email": "taqwabroadcaster@amrayn.com",
+    "phone": "0433456066"
+  }
+}
