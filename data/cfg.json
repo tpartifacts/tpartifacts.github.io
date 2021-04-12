@@ -1,7 +1,7 @@
 {
   "maghrib_offset": 4,
   "shurooq_offset": 15,
-  "hijri_adjust": 1,
+  "hijri_adjust": -1,
   "jumuah_idle": 30,
   "other_idle": 10,
   "jumuah_close": 30,
